@@ -1,0 +1,80 @@
+/* .clock{
+    border: 1px solid rgb(112, 88, 0);
+    background-color: black;
+    border-radius: 10px;
+    color: aliceblue;
+    width: 150px;
+    text-align: center;
+    padding: 40px 0px 40px;
+}
+.remen{
+    border-radius: 10px;
+    border: 5px dashed rgb(112, 88, 0);
+    width: 90px;
+    height: 400px;
+    background-color: black;
+    text-align: center;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    padding-bottom: 40px;
+}
+.jam{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.klor{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: rgb(155, 155, 155); 
+
+}
+.d{
+    border-top: 20px solid rgb(155, 155, 155);
+    height: 15px;
+    width: 110%;
+    margin-bottom: 30px;
+} */
+
+
+*{
+    box-sizing: border-box;
+}
+
+.svetafor_css{
+    height: 310px;
+    width: 110px;
+    padding: 9px;
+    margin: auto;
+    background-color: rgb(31, 36, 36);
+    border: 5px solid;
+    border-radius: 30px;
+}
+#red{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(19, 11, 11);
+    border: 2px solid;
+    border-radius: 50%;
+}
+#yellow{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(19, 11, 11);
+    border: 2px solid;
+    border-radius: 50%;
+    margin: 20px 0 20px;
+    padding-top: 15px;
+    text-align: center;
+    font-size: 40px;
+}
+
+#green{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(19, 11, 11);
+    border: 2px solid;
+    border-radius: 50%;
+}
